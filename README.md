@@ -1,4 +1,4 @@
-# spacegame
+# Spacegame
 A single player space game made with pygame.
 
 The aim of the game is to shoot the pigs before they reach you. Once the pigs reach your spaceship, the game is over. 
